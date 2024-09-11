@@ -1,4 +1,4 @@
-# [2024 캡스톤]👕옷맞춤👖__ OpenCV
+# [2024 캡스톤]👕옷맞춤👖__Backend
 
 ## 💻개발 환경 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
